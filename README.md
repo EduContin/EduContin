@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EduContin
+### Hi, I’m @EduContin 👋
 - 🔭 Software Development and Cybersecurity enthusiast
 - 🎓 Computer Science student (3/8)
 - 🖥️ Taking extra classes about Machine Learning
