@@ -1,7 +1,7 @@
 ### Hi, I’m @EduContin 👋
 - 🔭 Software Development and Cybersecurity enthusiast
 - 🎓 Computer Science student (3/8)
-- 🖥️ Taking extra classes about Machine Learning
+- 🖥️ Working in multiple projects
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduContin&theme=midnight-purple&show_icons=true)
