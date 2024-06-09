@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello World. I’m Contin. 👋</h1>
 
 <p align="center">
-    <a href="https://github.com/EduContin"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=0101010001011101000101;Software+Developer,;Cybersecurity+enthusiast,;actively+studying"></a>
+    <a href="https://github.com/EduContin"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=011100110110100101101101011100000110110001111001;001000000110001001100101011101000111010001100101;011100100010000001110100011010000110000101101110;00100000011110010110111101110101"></a>
 </p>
 
 
