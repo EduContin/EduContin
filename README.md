@@ -7,7 +7,7 @@
 
 ### About me
 - 🔭 Software Development and Cybersecurity Enthusiast
-- 🎓 Computer Science student at PUCPR [3/8]
+- 🎓 Computer Science student at PUCPR [4/8]
 - 🖥️ Working in multiple projects..
 
 ### General Stats
