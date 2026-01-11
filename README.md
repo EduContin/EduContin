@@ -10,15 +10,5 @@
 - 🎓 Computer Science student at PUCPR [6/8]
 - 🖥️ Working in multiple projects..
 
-### General Stats
-<div style="display: flex; align-items: center; justify-content: center;">
-  <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=EduContin&theme=tokyonight&show_icons=true" height= "180cm"/>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=EduContin&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduContin&layout=compact&theme=tokyonight" />
-</picture>
-  <img height= "180cm" width="380cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduContin&layout=compact&theme=tokyonight"/>
-</div>
-
 ### Citation
 ![Random Citation](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
